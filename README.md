@@ -1,1 +1,1 @@
-# yts
+# yts-server
