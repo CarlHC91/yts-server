@@ -8,7 +8,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.rasberry</groupId>
-	<artifactId>yts</artifactId>
+	<artifactId>yts-server</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
@@ -25,6 +25,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>yts-${project.version}</finalName>
+		<finalName>yts-server-${project.version}</finalName>
 	</build>
 </project>
